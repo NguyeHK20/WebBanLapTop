@@ -1,0 +1,165 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\huypr\\OneDrive\\Desktop\\DoAn_Web\\DoAn_Web\\DoAn_Web\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D3DE49A7-A55B-4FB7-90AB-B8407EB47915}|DoAn_Web\\DoAn_Web.csproj|c:\\users\\huypr\\onedrive\\desktop\\doan_web\\doan_web\\doan_web\\doan_web\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{D3DE49A7-A55B-4FB7-90AB-B8407EB47915}|DoAn_Web\\DoAn_Web.csproj|solutionrelative:doan_web\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3DE49A7-A55B-4FB7-90AB-B8407EB47915}|DoAn_Web\\DoAn_Web.csproj|C:\\Users\\huypr\\OneDrive\\Desktop\\DoAn_Web\\DoAn_Web\\DoAn_Web\\doan_web\\content\\assets\\js\\categories_custom.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{D3DE49A7-A55B-4FB7-90AB-B8407EB47915}|DoAn_Web\\DoAn_Web.csproj|solutionrelative:doan_web\\content\\assets\\js\\categories_custom.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3DE49A7-A55B-4FB7-90AB-B8407EB47915}|DoAn_Web\\DoAn_Web.csproj|C:\\Users\\huypr\\OneDrive\\Desktop\\DoAn_Web\\DoAn_Web\\DoAn_Web\\DoAn_Web\\Content\\assets\\js\\contact_custom.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{D3DE49A7-A55B-4FB7-90AB-B8407EB47915}|DoAn_Web\\DoAn_Web.csproj|solutionrelative:DoAn_Web\\Content\\assets\\js\\contact_custom.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3DE49A7-A55B-4FB7-90AB-B8407EB47915}|DoAn_Web\\DoAn_Web.csproj|C:\\Users\\huypr\\OneDrive\\Desktop\\DoAn_Web\\DoAn_Web\\DoAn_Web\\DoAn_Web\\Views\\Products\\ProductCategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D3DE49A7-A55B-4FB7-90AB-B8407EB47915}|DoAn_Web\\DoAn_Web.csproj|solutionrelative:DoAn_Web\\Views\\Products\\ProductCategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3DE49A7-A55B-4FB7-90AB-B8407EB47915}|DoAn_Web\\DoAn_Web.csproj|C:\\Users\\huypr\\OneDrive\\Desktop\\DoAn_Web\\DoAn_Web\\DoAn_Web\\DoAn_Web\\Views\\Products\\Partial_ProductSales.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D3DE49A7-A55B-4FB7-90AB-B8407EB47915}|DoAn_Web\\DoAn_Web.csproj|solutionrelative:DoAn_Web\\Views\\Products\\Partial_ProductSales.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3DE49A7-A55B-4FB7-90AB-B8407EB47915}|DoAn_Web\\DoAn_Web.csproj|C:\\Users\\huypr\\OneDrive\\Desktop\\DoAn_Web\\DoAn_Web\\DoAn_Web\\DoAn_Web\\Areas\\Admin\\Views\\Products\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D3DE49A7-A55B-4FB7-90AB-B8407EB47915}|DoAn_Web\\DoAn_Web.csproj|solutionrelative:DoAn_Web\\Areas\\Admin\\Views\\Products\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3DE49A7-A55B-4FB7-90AB-B8407EB47915}|DoAn_Web\\DoAn_Web.csproj|C:\\Users\\huypr\\OneDrive\\Desktop\\DoAn_Web\\DoAn_Web\\DoAn_Web\\DoAn_Web\\Controllers\\ProductsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3DE49A7-A55B-4FB7-90AB-B8407EB47915}|DoAn_Web\\DoAn_Web.csproj|solutionrelative:DoAn_Web\\Controllers\\ProductsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3DE49A7-A55B-4FB7-90AB-B8407EB47915}|DoAn_Web\\DoAn_Web.csproj|C:\\Users\\huypr\\OneDrive\\Desktop\\DoAn_Web\\DoAn_Web\\DoAn_Web\\DoAn_Web\\Views\\Products\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D3DE49A7-A55B-4FB7-90AB-B8407EB47915}|DoAn_Web\\DoAn_Web.csproj|solutionrelative:DoAn_Web\\Views\\Products\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3DE49A7-A55B-4FB7-90AB-B8407EB47915}|DoAn_Web\\DoAn_Web.csproj|C:\\Users\\huypr\\OneDrive\\Desktop\\DoAn_Web\\DoAn_Web\\DoAn_Web\\DoAn_Web\\Areas\\Admin\\Controllers\\ProductsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3DE49A7-A55B-4FB7-90AB-B8407EB47915}|DoAn_Web\\DoAn_Web.csproj|solutionrelative:DoAn_Web\\Areas\\Admin\\Controllers\\ProductsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\huypr\\OneDrive\\Desktop\\DoAn_Web\\DoAn_Web\\DoAn_Web\\DoAn_Web\\Web.config",
+              "RelativeDocumentMoniker": "DoAn_Web\\Web.config",
+              "ToolTip": "C:\\Users\\huypr\\OneDrive\\Desktop\\DoAn_Web\\DoAn_Web\\DoAn_Web\\DoAn_Web\\Web.config",
+              "RelativeToolTip": "DoAn_Web\\Web.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-03-08T20:12:30.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "categories_custom.js",
+              "DocumentMoniker": "C:\\Users\\huypr\\OneDrive\\Desktop\\DoAn_Web\\DoAn_Web\\DoAn_Web\\DoAn_Web\\Content\\assets\\js\\categories_custom.js",
+              "RelativeDocumentMoniker": "DoAn_Web\\Content\\assets\\js\\categories_custom.js",
+              "ToolTip": "C:\\Users\\huypr\\OneDrive\\Desktop\\DoAn_Web\\DoAn_Web\\DoAn_Web\\DoAn_Web\\Content\\assets\\js\\categories_custom.js",
+              "RelativeToolTip": "DoAn_Web\\Content\\assets\\js\\categories_custom.js",
+              "ViewState": "AQIAAIIBAAAAAAAAAAAAAIsBAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-03-08T20:12:07.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "contact_custom.js",
+              "DocumentMoniker": "C:\\Users\\huypr\\OneDrive\\Desktop\\DoAn_Web\\DoAn_Web\\DoAn_Web\\DoAn_Web\\Content\\assets\\js\\contact_custom.js",
+              "RelativeDocumentMoniker": "DoAn_Web\\Content\\assets\\js\\contact_custom.js",
+              "ToolTip": "C:\\Users\\huypr\\OneDrive\\Desktop\\DoAn_Web\\DoAn_Web\\DoAn_Web\\DoAn_Web\\Content\\assets\\js\\contact_custom.js",
+              "RelativeToolTip": "DoAn_Web\\Content\\assets\\js\\contact_custom.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-03-08T20:12:07.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductCategory.cshtml",
+              "DocumentMoniker": "C:\\Users\\huypr\\OneDrive\\Desktop\\DoAn_Web\\DoAn_Web\\DoAn_Web\\DoAn_Web\\Views\\Products\\ProductCategory.cshtml",
+              "RelativeDocumentMoniker": "DoAn_Web\\Views\\Products\\ProductCategory.cshtml",
+              "ToolTip": "C:\\Users\\huypr\\OneDrive\\Desktop\\DoAn_Web\\DoAn_Web\\DoAn_Web\\DoAn_Web\\Views\\Products\\ProductCategory.cshtml",
+              "RelativeToolTip": "DoAn_Web\\Views\\Products\\ProductCategory.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAADAAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-08T20:12:07.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Partial_ProductSales.cshtml",
+              "DocumentMoniker": "C:\\Users\\huypr\\OneDrive\\Desktop\\DoAn_Web\\DoAn_Web\\DoAn_Web\\DoAn_Web\\Views\\Products\\Partial_ProductSales.cshtml",
+              "RelativeDocumentMoniker": "DoAn_Web\\Views\\Products\\Partial_ProductSales.cshtml",
+              "ToolTip": "C:\\Users\\huypr\\OneDrive\\Desktop\\DoAn_Web\\DoAn_Web\\DoAn_Web\\DoAn_Web\\Views\\Products\\Partial_ProductSales.cshtml",
+              "RelativeToolTip": "DoAn_Web\\Views\\Products\\Partial_ProductSales.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-08T20:12:07.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\huypr\\OneDrive\\Desktop\\DoAn_Web\\DoAn_Web\\DoAn_Web\\DoAn_Web\\Areas\\Admin\\Views\\Products\\Index.cshtml",
+              "RelativeDocumentMoniker": "DoAn_Web\\Areas\\Admin\\Views\\Products\\Index.cshtml",
+              "ToolTip": "C:\\Users\\huypr\\OneDrive\\Desktop\\DoAn_Web\\DoAn_Web\\DoAn_Web\\DoAn_Web\\Areas\\Admin\\Views\\Products\\Index.cshtml",
+              "RelativeToolTip": "DoAn_Web\\Areas\\Admin\\Views\\Products\\Index.cshtml",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAAEQAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-08T20:12:07.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\huypr\\OneDrive\\Desktop\\DoAn_Web\\DoAn_Web\\DoAn_Web\\DoAn_Web\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "DoAn_Web\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\huypr\\OneDrive\\Desktop\\DoAn_Web\\DoAn_Web\\DoAn_Web\\DoAn_Web\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "DoAn_Web\\Controllers\\ProductsController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABQAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T20:12:07.24Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\huypr\\OneDrive\\Desktop\\DoAn_Web\\DoAn_Web\\DoAn_Web\\DoAn_Web\\Views\\Products\\Index.cshtml",
+              "RelativeDocumentMoniker": "DoAn_Web\\Views\\Products\\Index.cshtml",
+              "ToolTip": "C:\\Users\\huypr\\OneDrive\\Desktop\\DoAn_Web\\DoAn_Web\\DoAn_Web\\DoAn_Web\\Views\\Products\\Index.cshtml",
+              "RelativeToolTip": "DoAn_Web\\Views\\Products\\Index.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACEAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-08T20:12:07.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\huypr\\OneDrive\\Desktop\\DoAn_Web\\DoAn_Web\\DoAn_Web\\DoAn_Web\\Areas\\Admin\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "DoAn_Web\\Areas\\Admin\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\huypr\\OneDrive\\Desktop\\DoAn_Web\\DoAn_Web\\DoAn_Web\\DoAn_Web\\Areas\\Admin\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "DoAn_Web\\Areas\\Admin\\Controllers\\ProductsController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABEAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T20:12:07.245Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
